@@ -1,5 +1,7 @@
 #### Dynamic-Coin-Game-Analysis
 
+![image](simulation.png)
+
   * This Jupyter-notebook contains Python code for simulating a two-palyer game and analyzing the outcomes using the Monte Carlo method. The game involves two players, A and B, and is played with a six-sided die.
   * **Game Rules**
       * At the beginning of the game, each player starts with 4 coins, and there are 2 coins in the pot.Players take turns in a cycle (A,B, A,B,...). During their turn, players roll the die to perform certain actions:
